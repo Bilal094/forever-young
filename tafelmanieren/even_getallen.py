@@ -1,3 +1,3 @@
-for e in range(20,51,+2):
+for e in range(22,50,+2):
     print(e)
 input('')
